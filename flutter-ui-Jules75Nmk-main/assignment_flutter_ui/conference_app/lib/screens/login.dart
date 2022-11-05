@@ -188,7 +188,7 @@ void main() => runApp(MaterialApp(
                   ),
                 ),
                 SizedBox(
-                  height: 70.0,
+                  height: 71.0,
                 ),
                 Row(
                   mainAxisAlignment: MainAxisAlignment.center,
