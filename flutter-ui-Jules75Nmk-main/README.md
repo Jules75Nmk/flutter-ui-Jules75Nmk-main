@@ -2,8 +2,8 @@
 
 Flutter class project exercises 
 
-## Registration Number:
+## Registration Number: 220002704
 
-## Department: 
+## Department: IS
 
 Check the readme in the assignment for more instructions
